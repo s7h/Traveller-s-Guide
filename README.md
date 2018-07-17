@@ -4,9 +4,9 @@ This project was created to participate in [#OpenDataApps Challenge](https://dat
 
 ## Screenshots
 
-![Splash Screen](http://i64.tinypic.com/30mpqow.png)
-![Screenshot 1](http://i64.tinypic.com/30bh2zc.png)
-![Screenshot 2](http://i67.tinypic.com/2ik9m4p.png)
-![Screenshot 3](http://i67.tinypic.com/2rf6d1l.png)
+![Splash Screen](http://i66.tinypic.com/156zmkx.png)
+![Screenshot 1](http://i68.tinypic.com/4uea10.png)
+![Screenshot 2](http://i66.tinypic.com/69kebl.png)
+![Screenshot 3](http://i66.tinypic.com/2r4udrq.png)
 
 
